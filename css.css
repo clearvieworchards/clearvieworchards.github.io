@@ -19,3 +19,6 @@ a.abanner {
 a {
   color: black;
 }
+iframe {
+ border: 0; 
+}
