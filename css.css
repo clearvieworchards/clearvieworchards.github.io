@@ -10,5 +10,15 @@
   background-color: #51a551;
   margain-top: 1px;
   margain-bottom: 1px;
+}
+.banner2 {
+  text-align: center;
+  margin: auto;
+  position: relative;
+  background-color: #51a551;
+  margain-top: 1px;
+  margain-bottom: 1px;
+}
+a.banner2 {
   color: white;
 }
