@@ -15,6 +15,12 @@ a.abanner {
  text-decoration: none;
  text-align: center;
  color: white;
+ margain-left: 10px;
+ font-size: 20px;
+ transition-duration: 0.45s;
+}
+a.abanner:hover {
+  font-size: 22px;
 }
 a {
   color: black;
