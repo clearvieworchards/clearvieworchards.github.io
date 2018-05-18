@@ -11,14 +11,11 @@
   margain-top: 1px;
   margain-bottom: 1px;
 }
-.banner2 {
-  text-align: center;
-  margin: auto;
-  position: relative;
-  background-color: #51a551;
-  margain-top: 1px;
-  margain-bottom: 1px;
+a.banner {
+ text-decoration: none;
+ text-align: center;
+ color: white;
 }
-a.banner2 {
-  color: white;
+a {
+  color: black;
 }
